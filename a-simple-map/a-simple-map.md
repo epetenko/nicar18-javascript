@@ -103,9 +103,9 @@ function ready(data) {
 }
 ```
 
-### Part four: Use d3.queue to put them together and add color
+### Chunk four: Use d3.queue to put them together and add color
 
-For this to work, you must delete the code from Parts two and three, while keeping Part one code in place at the top.
+For this to work, you must delete the second and third chunks, while keeping the first chunk of code in place at the top.
 ```javascript
 
 // Part Three using Queue to load the external json and csv files
